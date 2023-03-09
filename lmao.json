@@ -4,7 +4,7 @@
   "variants": [
     {
       "name": "aosp_arm64_bgN",
-      "size": "1490924",
+      "size": "1490924000",
       "url": "https://private.projectelixiros.com/thirteen/gsi/ProjectElixir_3.6_gsi-13.0-20230223-1108-OFFICIAL.img.xz"
     }
   ]
